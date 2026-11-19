@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1:example",
+    "page": 1,
+    "text": "Radar Warning Receiver（雷达告警接收机）\n指示灯亮起时，表示系统已检测到相应信号。",
+    "erase_rects": [[80, 100, 420, 150]],
+    "box": [80, 100, 420, 150],
+    "font_size": 10.5,
+    "min_font_size": 8,
+    "bold": false,
+    "color": [0, 0, 0],
+    "rotate": 0
+  }
+]

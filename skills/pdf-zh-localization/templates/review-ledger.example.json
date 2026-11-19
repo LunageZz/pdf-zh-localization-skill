@@ -1,0 +1,12 @@
+{
+  "review_scope": {"existing_translations": true, "new_translations": true},
+  "text_units": [
+    {"id": "1:example", "page": 1, "status": "pending", "issues": [], "revision": null}
+  ],
+  "pages": [
+    {"page": 1, "source_page": null, "text_review": "pending", "image_review": "pending", "layout_review": "pending", "proof_path": null}
+  ],
+  "structure_report": null,
+  "unresolved_issues": [],
+  "delivery_verified": false
+}

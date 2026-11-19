@@ -1,0 +1,21 @@
+{
+  "project_name": "technical_manual_localization",
+  "sources": [
+    {"path": "source/en_volume_1.pdf", "combined_start_page": 1},
+    {"path": "source/en_volume_2.pdf", "combined_start_page": null}
+  ],
+  "incomplete_chinese": "source/incomplete_zh.pdf",
+  "latest_complete_baseline": "work/complete_baseline.pdf",
+  "page_map": "work/page_map.json",
+  "font_regular": "fonts/SourceHanSansSC-Regular.otf",
+  "font_bold": "fonts/SourceHanSansSC-Bold.otf",
+  "term_format": "English（中文译名）",
+  "review_existing_translations": true,
+  "external_translation_authorization": {
+    "service": null,
+    "scope": null,
+    "evidence": null
+  },
+  "output": "deliverables/final_zh.pdf",
+  "delivery": {"drive_folder_id": null, "replace_file_ids": []}
+}

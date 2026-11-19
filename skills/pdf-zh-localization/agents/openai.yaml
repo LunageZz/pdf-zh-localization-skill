@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF 中文补译与全书审校"
+  short_description: "补齐漏译和节译，保留原版布局、图例、书签与链接，审校已有及新增译文"
+  default_prompt: "使用 $pdf-zh-localization 对照英文原档和未完成中文版，补全翻译并对全书已有及新增译文进行对照审校，保留原图、版式、书签和链接，默认使用思源黑体。"

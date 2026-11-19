@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+*.pdf
+*.otf
+*.ttf
+*.ttc
+*.zip
+source/
+work/
+qa/
+deliverables/
+dist/
